@@ -1,0 +1,10 @@
+.row{
+    display: flex;
+    box-sizing: border-box;
+}
+
+.completed{
+    color: #ccc;
+    text-decoration: line-through;
+
+}
